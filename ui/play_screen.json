@@ -1,0 +1,29 @@
+{
+    "common_play_screen_panel": {
+        "size": [
+            "100%",
+            "100%"
+        ]
+    },
+    "common_tab_content_panel_type": {
+        "size": [
+            "100%",
+            "100%"
+        ]
+    },
+    "play_screen_panel/tab_navigation_panel": {
+        "visible": false
+    },
+    "server_content_area": {
+        "size": [
+            "25% - 4px",
+            "100%"
+        ]
+    },
+    "show_servers_panel/left_panel": {
+        "size": [
+            "75% - 1px",
+            "100%"
+        ]
+    }
+}

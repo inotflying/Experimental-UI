@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§uCreated by inotflying",
+        "name": "Experimental UI",
+        "uuid": "a3811e28-35d6-4446-adc1-6142b0673333",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "f80fb6eb-4dce-435b-a10e-3c4b226af22f",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
