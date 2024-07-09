@@ -1,7 +1,7 @@
 # Experimental UI
 
 ## Donate
- * [TON](https://ton.org): `minecratpe.ton`
+ * [TON](https://ton.org): `minecraftpe.ton`
 
 ## Screenshots
 ![](.github/screenshots/00.png)
